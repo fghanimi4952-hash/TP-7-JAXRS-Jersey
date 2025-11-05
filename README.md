@@ -46,26 +46,8 @@ Ce projet est une application Spring Boot qui implémente une API REST avec JAX-
 
 ![Navigateur](screenshots/navigateur.png)
 
-*Capture d'écran : Résultat dans le navigateur (format JSON)*
 
 
-
-##  Configuration
-
-### application.properties
-
-```properties
-spring.datasource.url=jdbc:h2:mem:banque
-server.port=8082
-```
-
-### Données initiales
-
-L'application crée automatiquement 3 comptes au démarrage :
-- 2 comptes EPARGNE
-- 1 compte COURANT
-
-Les soldes sont générés aléatoirement entre 0 et 9000.
 
 ##  Fonctionnalités
 
