@@ -29,7 +29,6 @@ Ce projet est une application Spring Boot qui implémente une API REST avec JAX-
 
 
 
-![Console H2](screenshots/h2-console.png)
 
 
 ### 2. Test avec SoapUI - Format JSON
