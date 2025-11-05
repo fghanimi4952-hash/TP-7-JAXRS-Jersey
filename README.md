@@ -41,12 +41,6 @@ Ce projet est une application Spring Boot qui implémente une API REST avec JAX-
 
 
 
-**URL :** `http://localhost:8082/banque/comptes`
-
-![Navigateur](screenshots/navigateur.png)
-
-
-
 
 ##  Fonctionnalités
 
@@ -57,17 +51,6 @@ Ce projet est une application Spring Boot qui implémente une API REST avec JAX-
 -  Configuration Jersey pour JAX-RS
 -  Entité JPA avec annotations
 -  Repository Spring Data JPA
-
-## 📚 Ressources
-
-- [Spring Boot Documentation](https://spring.io/projects/spring-boot)
-- [Jersey Documentation](https://eclipse-ee4j.github.io/jersey/)
-- [JAX-RS Specification](https://jakarta.ee/specifications/restful-ws/)
-- [H2 Database](https://www.h2database.com/)
-
-
-
-Projet réalisé dans le cadre du cours **Architecture Microservices : Conception, Déploiement et Orchestration**
 
 
 
