@@ -24,12 +24,14 @@ Ce projet est une application Spring Boot qui implémente une API REST avec JAX-
 ### 1. Console H2 - Base de données
 
 **Accès :** `http://localhost:8082/h2-console`
+<img width="755" height="504" alt="Capture d’écran 2025-11-05 à 13 15 31" src="https://github.com/user-attachments/assets/022c741a-b1bb-4500-bb10-50c5ba33b2fc" />
 <img width="1273" height="399" alt="Capture d’écran 2025-11-05 à 13 07 55" src="https://github.com/user-attachments/assets/ef000a5d-cd8e-4872-89d2-49fb484d2d98" />
 
 **Configuration de connexion :**
 - JDBC URL : `jdbc:h2:mem:banque`
 - User : `sa`
 - Password : (vide)
+
 
 ![Console H2](screenshots/h2-console.png)
 
