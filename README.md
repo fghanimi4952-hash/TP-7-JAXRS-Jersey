@@ -31,7 +31,6 @@ Ce projet est une application Spring Boot qui implémente une API REST avec JAX-
 
 ![Console H2](screenshots/h2-console.png)
 
-*Capture d'écran : Console H2 montrant les comptes créés dans la base de données*
 
 ### 2. Test avec SoapUI - Format JSON
 
@@ -39,7 +38,11 @@ Ce projet est une application Spring Boot qui implémente une API REST avec JAX-
 **Method :** GET  
 **Headers :** `Accept: application/json`
 
-![SoapUI JSON](screenshots/soapui-json.png)
+<img width="1216" height="711" alt="Capture d’écran 2025-11-05 à 13 20 19" src="https://github.com/user-attachments/assets/2ff8c6dc-faad-4c75-b6dc-cb884979e936" />
+
+
+
+
 
 *Capture d'écran : Test de l'API avec SoapUI en format JSON*
 
