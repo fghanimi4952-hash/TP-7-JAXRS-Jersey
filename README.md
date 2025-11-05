@@ -42,36 +42,6 @@ Ce projet est une application Spring Boot qui implémente une API REST avec JAX-
 
 
 
-
-
-*Capture d'écran : Test de l'API avec SoapUI en format JSON*
-
-### 3. Test avec SoapUI - Format XML
-
-**URL :** `http://localhost:8082/banque/comptes`  
-**Method :** GET  
-**Headers :** `Accept: application/xml`
-
-![SoapUI XML](screenshots/soapui-xml.png)
-
-*Capture d'écran : Test de l'API avec SoapUI en format XML*
-
-### 4. Test avec Postman
-
-**GET - Tous les comptes :**
-![Postman GET](screenshots/postman-get.png)
-
-**POST - Créer un compte :**
-![Postman POST](screenshots/postman-post.png)
-
-**PUT - Modifier un compte :**
-![Postman PUT](screenshots/postman-put.png)
-
-**DELETE - Supprimer un compte :**
-![Postman DELETE](screenshots/postman-delete.png)
-
-### 5. Test dans le navigateur
-
 **URL :** `http://localhost:8082/banque/comptes`
 
 ![Navigateur](screenshots/navigateur.png)
